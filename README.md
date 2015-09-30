@@ -1,3 +1,2 @@
 # hello-world
-First Repository
-Brook is awesome
+First Repository/ Kurt is awesome
